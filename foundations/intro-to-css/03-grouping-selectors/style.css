@@ -1,0 +1,14 @@
+.common-prop {
+    font-size: 24px;
+    font-family: Helvetica, "Times New Roman", sans-serif
+}
+
+.uni-prop-1 {
+    background-color: black;
+    color: #ffff;
+}
+
+.uni-prop-2 {
+    background-color: #e4eb10d8;
+    color: black;
+}
