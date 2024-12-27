@@ -1,0 +1,22 @@
+.odd {
+    background-color: rgb(233, 119, 119);
+    font-size: 24px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-2 {
+    color: #5107fe;
+    font-size: 36px;
+    font-family: serif, "DejaVu Sans", sans-serif, Verdana;
+}
+
+.adjust-font-size {
+    font-size: 42px;
+}
+
+#id-4 {
+    background-color: #8bf09c;
+    color: hsl(0, 100%, 1%);
+    font-size: 36px;
+    font-family: serif, "DejaVu Sans", sans-serif, Verdana;    
+}
